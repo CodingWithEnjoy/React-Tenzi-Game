@@ -1,0 +1,8 @@
+{
+  "short_name": "tenzi",
+  "name": "tenzi game with react",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
